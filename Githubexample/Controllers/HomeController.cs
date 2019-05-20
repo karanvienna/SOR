@@ -19,13 +19,6 @@ namespace Githubexample.Controllers
             return PartialView();
         }
 
-        public ActionResult UpdateGridData11()
-        {
-            string AA = "";
-            return PartialView();
-        }
-
-
         public ActionResult UpdateUserInfo()
         {
             return PartialView();
